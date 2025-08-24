@@ -1,4 +1,4 @@
-# GREATER NUMBER :
+# GREATER NUMBER 
 NUM1 = int (input("Enter The First Number :"))
 NUM2 = int (input("Enter The Second Number :"))
 NUM3 = int (input("Enter The Third Number :"))
